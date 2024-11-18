@@ -26,6 +26,11 @@ public class Prueba1 {
 				// User 3 fer la multiplicació dels elements de prodArray
 				 
 				 
-	}
+	
+	
+	// User 3 fer la multiplicació dels elements de prodArray
+	
+	
 
+}
 }
