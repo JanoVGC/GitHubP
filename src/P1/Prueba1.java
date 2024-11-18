@@ -28,6 +28,7 @@ public class Prueba1 {
 				 }
 				
 				 System.out.println("La resta dels elements és: " + rest);
+				 //
 				
 				// User 3 fer la multiplicació dels elements de prodArray
 				 
