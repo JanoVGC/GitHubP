@@ -22,12 +22,6 @@ public class Prueba1 {
 				// User 2 fer la resta dels elements de subArray
 				 
 				 
-				 int rest = 0; 
-				 for (int i = 0; i < subArray.length; i++) {
-					 rest -= subArray [i];
-				 }
-				
-				 System.out.println("La resta dels elements és: " + rest);
 				
 				// User 3 fer la multiplicació dels elements de prodArray
 				 
