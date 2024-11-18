@@ -32,13 +32,11 @@ public class Prueba1 {
 				// User 3 fer la multiplicació dels elements de prodArray
 				 
 				 
-	}
-	int[] sumArray = {4,36,4,23,867};
-	int[] subArray = {785675, 56, 5675, 56544, 234};
-	int[] prodArray = {6, 8, 20, 23, 12};
+	
 	
 	// User 3 fer la multiplicació dels elements de prodArray
 	
 	
 
+}
 }
