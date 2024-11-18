@@ -9,6 +9,14 @@ public class Prueba1 {
 				
 				// User 1 fer la suma dels elements de sumArray
 				
+				int suma = 0; 
+				 for (int i = 0; i < sumArray.length; i++) {
+					 suma += sumArray [i];
+				 }
+				 
+				 System.out.println("La suma dels elements és: " + suma);
+				
+				
 				
 				
 				// User 2 fer la resta dels elements de subArray
